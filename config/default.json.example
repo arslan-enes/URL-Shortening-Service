@@ -1,0 +1,5 @@
+{
+    "mongodbUrl": "?",
+    "port": ?,
+    "baseUrl": "?"
+}
